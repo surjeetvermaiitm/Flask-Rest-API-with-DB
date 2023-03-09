@@ -30,7 +30,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/surjeet/Documents/Sigmoid/Fullstack/Training/Local/Assignments/Flask-Rest-API-with-DB/my-env"
+set -gx VIRTUAL_ENV "/Users/surjeet/Documents/Sigmoid/Fullstack/Training/Sigmoid/Assignments/Flask-Rest-API-with-DB-Assignment/my-env"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

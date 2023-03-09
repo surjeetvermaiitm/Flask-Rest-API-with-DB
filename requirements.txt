@@ -1,4 +1,5 @@
-flask
-flask_marshmallow
-flask_sqlalchemy
+Flask
+Flask_Marshmallow
+Flask_Sqlalchemy
 marshmallow-sqlalchemy
+

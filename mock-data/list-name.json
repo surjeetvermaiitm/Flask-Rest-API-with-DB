@@ -1,0 +1,35 @@
+[
+  {
+    "copy_right": "Copyright (c) 2019 The New York Times Company.  All Rights Reserved.",
+    "id": 1,
+    "last_modified": "2015-12-25T13:05:20",
+    "num_results": 15,
+    "results": {
+      "bestsellers_date": "2015-12-19",
+      "books": [
+        {
+          "author": "Andy Weir",
+          "description": "Separated from his crew, an astronaut embarks on a quest to stay alive on Mars. The basis of the movie.",
+          "isbns": [
+            {
+              "isbn10": 804139024,
+              "isbn13": "9780804139021"
+            }
+          ],
+          "price": 0,
+          "primary_isbn10": 553418025,
+          "primary_isbn13": "9780553418026",
+          "publisher": "Broadway",
+          "rank": 1,
+          "rank_last_week": 0,
+          "title": "THE MARTIAN"
+        }
+      ],
+      "display_name": "Paperback Trade Fiction",
+      "list_name": "Trade Fiction Paperback",
+      "published_date": "2016-01-03",
+      "updated": "WEEKLY"
+    },
+    "status": "OK"
+  }
+]
